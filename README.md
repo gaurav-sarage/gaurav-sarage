@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Sarage</h1>
-<h3 align="center">Passionate about AI&ML, Data Science.</h3>
+<h3 align="center">Passionate about Full Stack and Microsoft Azure.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav-sarage&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav-sarage" /> </p>
 
