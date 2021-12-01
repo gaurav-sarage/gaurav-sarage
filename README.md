@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Sarage</h1>
-<h3 align="center">Passionate about Full Stack and Microsoft Azure.</h3>
+<h3 align="center">Passionate about Full Stack and AWS + Azure.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav-sarage&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav-sarage" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/gauravsarage3" target="blank"><img src="https://img.shields.io/twitter/follow/gauravsarage3?logo=twitter&style=for-the-badge" alt="gauravsarage3" /></a> </p>
 
-- 🔭 I’m currently working on [E-commerce-website](https://github.com/gaurav-sarage/E-commerce_website)
+- 🔭 I’m currently working on my college's ACM Website.
 
-- 🌱 I’m currently learning **Python for Data Science**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [https://wordpress.com/home/technicalinfo19.wordpress.com](https://wordpress.com/home/technicalinfo19.wordpress.com)
 
-- 💬 Ask me about **Python, AI, ML**
+- 💬 Ask me about **C++, Front-end and Linear DS**
 
 - 📫 How to reach me **gauravsarage.1902@gmail.com**
 
@@ -28,7 +28,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gauravsarage3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gauravsarage3" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gaurav-sarage-044064208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gaurav-sarage-044064208/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/gaurav-sarage-044064208/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gaurav-sarage-044064208/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/gauravsarage_19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/gauravsarage_19/" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/https://www.hackerrank.com/gaurav_sarage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/gaurav_sarage" height="30" width="40" /></a>
 </p>
