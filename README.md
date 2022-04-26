@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaurav-sarage" alt="gaurav-sarage" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/gauravsarage4" target="blank"><img src="https://img.shields.io/twitter/follow/gauravsarage3?logo=twitter&style=for-the-badge" alt="gauravsarage3" /></a> </p>
+<p align="left"> <a href="https://twitter.com/gauravsarage4" target="blank"><img src="https://img.shields.io/twitter/follow/gauravsarage4?logo=twitter&style=for-the-badge" alt="gauravsarage3" /></a> </p>
 
 - 🔭 I’m currently working on my college's ACM Website.
 
