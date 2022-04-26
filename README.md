@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaurav-sarage" alt="gaurav-sarage" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/gauravsarage3" target="blank"><img src="https://img.shields.io/twitter/follow/gauravsarage3?logo=twitter&style=for-the-badge" alt="gauravsarage3" /></a> </p>
+<p align="left"> <a href="https://twitter.com/gauravsarage4" target="blank"><img src="https://img.shields.io/twitter/follow/gauravsarage3?logo=twitter&style=for-the-badge" alt="gauravsarage3" /></a> </p>
 
 - 🔭 I’m currently working on my college's ACM Website.
 
@@ -27,7 +27,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/gauravsarage3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gauravsarage3" height="30" width="40" /></a>
+<a href="https://twitter.com/gauravsarage4" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gauravsarage3" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gaurav-sarage-044064208/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gaurav-sarage-044064208/" height="30" width="40" /></a>
 
 
