@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/gaurav_19"><img src="https://api.daily.dev/devcards/93cb2675b11149b4a847a3aab87b02ff.png?r=efn" width="400" alt="Gaurav Sarage's Dev Card"/></a>
+
 <h1 align="center">Hi 👋, I'm Gaurav Sarage</h1>
 <h3 align="center">Passionate about Full Stack and AWS + Azure.</h3>
 
