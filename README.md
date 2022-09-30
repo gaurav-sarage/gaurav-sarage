@@ -19,8 +19,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/gaurav-sarage](https://github.com/gaurav-sarage)
 
-- 📝 I regularly write articles on [https://wordpress.com/home/technicalinfo19.wordpress.com](https://wordpress.com/home/technicalinfo19.wordpress.com)
-
 - 💬 Ask me about **C++, Front-end and Linear DS**
 
 - 📫 How to reach me **gauravsarage.1902@gmail.com**
