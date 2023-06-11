@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/gauravsarage4" target="blank"><img src="https://img.shields.io/twitter/follow/gauravsarage4?logo=twitter&style=for-the-badge" alt="gauravsarage3" /></a> </p>
 
-- 🔭 I’m currently working on my college's ACM Website.
+- 🔭 I’m currently working on my personal portfolio using Next.js
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/gaurav-sarage](https://github.com/gaurav-sarage)
 
-- 💬 Ask me about **C++, Front-end and Linear DS**
+- 💬 Ask me about **Fullstack Development, Microsoft Azure and blockchain**
 
 - 📫 How to reach me **gauravsarage.1902@gmail.com**
 
