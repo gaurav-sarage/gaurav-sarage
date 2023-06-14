@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Gaurav Sarage</h1>
 <h3 align="center">Passionate about Full Stack and AWS + Azure.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav-sarage&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav-sarage" /> </p>
-
 <p align="left"> <a href="https://twitter.com/gauravsarage4" target="blank"><img src="https://img.shields.io/twitter/follow/gauravsarage4?logo=twitter&style=for-the-badge" alt="gauravsarage3" /></a> </p>
 
 - 🔭 I’m currently working on my personal portfolio using Next.js
