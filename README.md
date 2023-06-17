@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Gaurav Sarage</h1>
-<h3 align="center">Passionate about Full Stack and AWS + Azure.</h3>
+<h3 align="center">A result oriented fullstack developer working with React
 
 <p align="left"> <a href="https://twitter.com/gauravsarage4" target="blank"><img src="https://img.shields.io/twitter/follow/gauravsarage4?logo=twitter&style=for-the-badge" alt="gauravsarage3" /></a> </p>
 
 - 🔭 I’m currently working on my personal portfolio using Next.js
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **Cairo 1 []**
 
-- 👯 I’m looking to collaborate on **open source projects**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 🤝 I’m looking for help with **building my connections on LinkedIn**
+- 🤝 I’m looking for help with **building my connections on **
 
 - 👨‍💻 All of my projects are available at [https://github.com/gaurav-sarage](https://github.com/gaurav-sarage)
 
-- 💬 Ask me about **Fullstack Development, Microsoft Azure and blockchain**
+- 💬 Ask me about **Fullstack Development, Microsoft Azure and Blockchain using Cairo**
 
 - 📫 How to reach me **gauravsarage.1902@gmail.com**
 
