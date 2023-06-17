@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Gaurav Sarage</h1>
-<h3 align="center">A result oriented fullstack developer working with React
+<h3 align="center">Passionate about fullstack web development
 
 <p align="left"> <a href="https://twitter.com/gauravsarage4" target="blank"><img src="https://img.shields.io/twitter/follow/gauravsarage4?logo=twitter&style=for-the-badge" alt="gauravsarage3" /></a> </p>
 
 - 🔭 I’m currently working on my personal portfolio using Next.js
 
-- 🌱 I’m currently learning **Cairo 1 []**
+- 🌱 I’m currently learning **Cairo 1 [https://cairo-book.github.io/]**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 🤝 I’m looking for help with **building my connections on **
+- 🤝 I’m looking for help with **building my connections on Twitter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gaurav-sarage](https://github.com/gaurav-sarage)
 
