@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav-sarage&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav-sarage" /> </p>
 
-<p align="left"> <a href="https://twitter.com/gauravsarage4" target="blank"><img src="https://img.shields.io/twitter/follow/gauravsarage4?logo=twitter&style=for-the-badge" alt="gauravsarage4" /></a> </p>
+<p align="left"> <a href="https://twitter.com/0xgauravv" target="blank"><img src="https://img.shields.io/twitter/follow/gauravsarage4?logo=twitter&style=for-the-badge" alt="gauravsarage4" /></a> </p>
 
 - 🔭 I’m currently working on [my portfolio blog](https://github.com/gaurav-sarage/gauravv)
 
@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/gauravsarage4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gauravsarage4" height="30" width="40" /></a>
+<a href="https://twitter.com/0xgauravv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gauravsarage4" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gaurav-sarage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav-sarage" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gaurav_1902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gaurav_1902" height="30" width="40" /></a>
 </p>
