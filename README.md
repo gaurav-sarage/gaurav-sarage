@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/0xgauravv" target="_blank"><img src="https://img.shields.io/twitter/follow/gauravsarage4?logo=twitter&style=for-the-badge" alt="gauravsarage4" /></a> </p>
 
-- 🔭 I’m currently working on [my portfolio blog](https://github.com/gaurav-sarage/gauravv)
+- 🔭 I’m currently working on [my NextJS Portfolio Blog](https://github.com/gaurav-sarage/gauravv)
 
 - 🌱 I’m currently learning **NextJS & Solidity**
 
-- 👯 I’m looking to collaborate on **Open source projects**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 👨‍💻 All of my projects are available at [gaurav-sarage.vercel.app](gaurav-sarage.vercel.app)
 
