@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaurav Sarage</h1>
 <h3 align="center">A fullstack developer who's currently learning Cairo 1</h3>
 
-<p align="left"> <a href="https://twitter.com/0xgauravv" target="_blank"><img src="https://img.shields.io/twitter/follow/gauravsarage4?logo=twitter&style=for-the-badge" alt="gauravsarage4" /></a> </p>
+<p align="left"> <a href="https://twitter.com/0xgauravv" target="_blank"><img src="https://img.shields.io/twitter/follow/0xgauravv?logo=twitter&style=for-the-badge" alt="0xgauravv" /></a> </p>
 
 - 🔭 I’m currently working on [my NextJS Portfolio Blog](https://github.com/gaurav-sarage/gauravv)
 
