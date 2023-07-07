@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [my NextJS Portfolio Blog](https://github.com/gaurav-sarage/gauravv)
 
-- 🌱 I’m currently learning **NextJS & Solidity**
+- 🌱 I’m currently learning **NextJS, Tailwind CSS & Solidity**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
