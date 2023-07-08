@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gaurav Sarage</h1>
+<h1 align="center">Hello fren 👋, I'm Gaurav Sarage </h1>
 <h3 align="center">A frontend developer who's currently learning NextJS</h3>
 
 <p align="left"> <a href="https://twitter.com/0xgauravv" target="_blank"><img src="https://img.shields.io/twitter/follow/0xgauravv?logo=twitter&style=for-the-badge" alt="0xgauravv" /></a> </p>
