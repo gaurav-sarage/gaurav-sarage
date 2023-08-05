@@ -3,7 +3,7 @@
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=gaurav-sarage&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats" /></p>
 
-<p><img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=gaurav-sarage&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /> </p>
+<p align="center"><img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=gaurav-sarage&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /> </p>
 
 <p align="left"> <a href="https://twitter.com/0xgauravv" target="_blank"><img src="https://img.shields.io/twitter/follow/0xgauravv?logo=twitter&style=for-the-badge" alt="0xgauravv" /></a> </p>
 
