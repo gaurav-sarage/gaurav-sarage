@@ -19,6 +19,8 @@
 
 - 📫 How to reach me **gauravsarage.1902@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/14xOcC4ktt6JEij1FS9lwJjK4KryDh3Vc/view?usp=sharing](https://drive.google.com/file/d/14xOcC4ktt6JEij1FS9lwJjK4KryDh3Vc/view?usp=sharing)
+
 - ⚡ Fun fact **I crack very lame jokes :)**
 
 <h3 align="left">Connect with me:</h3>
