@@ -10,16 +10,10 @@
 - 🔭 I’m currently working on [my NextJS Portfolio Blog](https://github.com/gaurav-sarage/gauravv)
 
 - 🌱 I’m currently learning **NextJS, Tailwind CSS & Solidity**
-
-- 👯 I’m looking to collaborate on **Open Source Projects**
-
+- 
 - 👨‍💻 All of my projects are available at [gaurav-sarage.vercel.app](gaurav-sarage.vercel.app)
 
-- 💬 Ask me about **ReactJS, Cairo 1**
-
 - 📫 How to reach me **gauravsarage.1902@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/14xOcC4ktt6JEij1FS9lwJjK4KryDh3Vc/view?usp=sharing](https://drive.google.com/file/d/14xOcC4ktt6JEij1FS9lwJjK4KryDh3Vc/view?usp=sharing)
 
 - ⚡ Fun fact **I crack very lame jokes :)**
 
