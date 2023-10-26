@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 🌱 I’m currently learning **NextJS, Tailwind CSS & Solidity**
+- 🌱 I’m currently learning **Data Structures & Algorithms in C++**
 
 - 👨‍💻 All of my projects are available at [gaurav-sarage.vercel.app](gaurav-sarage.vercel.app)
 
