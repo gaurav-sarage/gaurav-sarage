@@ -21,8 +21,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/170srJuyo_TO16Z5FMbV8tJdPUqKkVh3H/view?usp=sharing](https://drive.google.com/file/d/170srJuyo_TO16Z5FMbV8tJdPUqKkVh3H/view?usp=sharing)
 
-- ⚡ Fun fact **I crack very lame jokes :)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/0xgauravv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gauravsarage4" height="30" width="40" /></a>
