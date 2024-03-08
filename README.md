@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/0xgauravv" target="_blank"><img src="https://img.shields.io/twitter/follow/0xgauravv?logo=twitter&style=for-the-badge" alt="0xgauravv" /></a> </p>
 
-- 🔭 I’m currently working on [Nextjs + Sanity powered blog application](https://github.com/gaurav-sarage/devdazzle)
+- 🔭 I’m currently re-working on [AI powered SaaS app](https://github.com/gaurav-sarage/InstantAI)
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
