@@ -13,7 +13,7 @@
 
 - 🌱 I’m also learning **NextJS** for building **frontend** & **backend** of our final year project
 
-- 👨‍💻 All of my projects are available at [gaurav-sarage.vercel.app](gaurav-sarage.vercel.app)
+- 👨‍💻 All of my projects are available at [gaurav-sarage.vercel.app](https://gaurav-sarage.vercel.app)
 
 - 💬 Ask me about **ReactJS, Tailwind CSS & Solidity**
 
