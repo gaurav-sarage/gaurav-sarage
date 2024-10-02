@@ -5,19 +5,16 @@
 
 <p align="left"> <a href="https://twitter.com/0xgauravv" target="_blank"><img src="https://img.shields.io/twitter/follow/0xgauravv?logo=twitter&style=for-the-badge" alt="0xgauravv" /></a> </p>
 
-- 🔭 I’m currently working on [NextBlend - (Nextjs + Tailwind CSS Components)](https://github.com/gaurav-sarage/NextBlend)
+- 🔭 I’m currently working as [Integration Consultant (SAP) at Rolling Arrays](https://www.linkedin.com/feed/update/urn:li:activity:7214256953290608641/)
 
-- 👨‍💻 I'm currently learning **Rust** from **Encode Solana Bootcamp**
-
-- 🌱 I’m also learning **NextJS** for building **frontend** & **backend** of our final year project
+- ✨ I'm currently learning **Groovy Script** & **NextJS** as part of my professional journey!
 
 - 👨‍💻 All of my projects are available at [gaurav-sarage.vercel.app](https://gaurav-sarage.vercel.app)
 
 - 💬 Ask me about **ReactJS, Tailwind CSS & Solidity**
 
 - 📫 How to reach me **gauravsarage.1902@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/170srJuyo_TO16Z5FMbV8tJdPUqKkVh3H/view?usp=sharing](https://drive.google.com/file/d/170srJuyo_TO16Z5FMbV8tJdPUqKkVh3H/view?usp=sharing)
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
